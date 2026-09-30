@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Jha
 
-<!--
-**Piyush-Kashyap-23/Piyush-Kashyap-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech @ IIT (ISM) Dhanbad  
+💻 Full-Stack Developer | 🧠 Competitive Programmer  
+🔐 Cybersecurity Enthusiast | 🌐 Open Source Explorer
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C++ • Java • Python • JavaScript  
+**Web:** MERN • Django • REST APIs  
+**Core:** DSA • Networking • Operating Systems • DBMS  
+**Systems:** Distributed Systems • Microservices  
+**Security:** Ethical Hacking • Digital Forensics • Web Security  
+**Tools:** Git • GitHub • Linux • Docker
+
+## 🚀 What I'm Working On
+
+- 🧠 Improving DSA & Competitive Programming
+- 🔐 Exploring Cybersecurity & Digital Forensics
+- 🌐 Building scalable backend systems
+- 🌍 Contributing to Open Source
+
+## 🎯 Current Goals
+
+🏆 Competitive Programming  
+🌎 Open Source & GSoC  
+🔐 Cybersecurity  
+🚀 Software Engineering
